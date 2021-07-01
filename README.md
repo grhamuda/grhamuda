@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mgrahadhuita
 - 👀 I’m interested in Backend Engineering
-- 🌱 I’m currently learning Java RPC Framework
 - 📫 You can reach me using grahadhuita@gmail.com or mgrahadhuita@traveloka.com
 
 <!---
