@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mgrahadhuita
-- 👀 I’m interested in Backend Engineering
+- 👀 Backend Engineering
 - 📫 You can reach me using grahadhuita@gmail.com or mgrahadhuita@traveloka.com
 
 <!---
