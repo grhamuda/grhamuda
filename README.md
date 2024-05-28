@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mgrahadhuita
-- 👀 Backend Engineering, Ex-Gro, Now XPE Again
-- 📫 You can reach me using grahadhuita@gmail.com or mgrahadhuita@traveloka.com
+- 👋 Hi, I’m Muda
+- 👀 Backend Engineering, Experienced in Java, SQL & HCL (Terraform)
+- 📫 You can reach me using grahadhuita@gmail.com
 
 <!---
 mgrahadhuita/mgrahadhuita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
