@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muda
-- 👀 Backend Engineering,
+- 👀 Backend Engineer,
 - 💻 Java, SQL & HCL (Terraform)
 - 📫 You can reach me using grahadhuita@gmail.com
 
